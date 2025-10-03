@@ -1,4 +1,5 @@
 # enterprise-data-insights-architecture
+Data Architecture: https://github.com/rahulbagade/data-architecture/wiki
 
 The Enterprise Data & Insights Architecture repository is a collection of frameworks, reference models, data patterns, and reusable assets designed for architects, data engineers, and analytics professionals.
 

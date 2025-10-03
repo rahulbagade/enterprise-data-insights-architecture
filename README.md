@@ -1,6 +1,6 @@
 # enterprise-data-insights-architecture
 
-The Enterprise Data & Insights Architecture repository is a structured collection of frameworks, reference models, data patterns, and reusable assets designed for architects, data engineers, and analytics professionals.
+The Enterprise Data & Insights Architecture repository is a collection of frameworks, reference models, data patterns, and reusable assets designed for architects, data engineers, and analytics professionals.
 
 It brings together Enterprise Architecture principles and Data Architecture practices to provide a unified view of how organizations can design, govern, and implement scalable, secure, and insight-driven data platforms.
 

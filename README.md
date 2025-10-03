@@ -11,14 +11,14 @@ It brings together Enterprise Architecture principles and Data Architecture prac
 📂 Architecture Blueprints:
   Conceptual diagrams (enterprise data flow, business-to-technical mapping).
   Logical & physical data models (ER diagrams, schema definitions).
-  Cloud deployment patterns (AWS, Azure, GCP examples).
+  Cloud deployment patterns (AWS, Azure, GCP).
   Medallion architecture / Data Lakehouse design (Bronze, Silver, Gold layers).
 
 📂 Data Models:
   Relational model.
   ER model.
-  Dimensional models (Kimball, Star/Snowflake, Inmon, EDW).
-  Data Vault models
+  Dimensional models (Kimball, Star/Snowflake, Inmon EDW).
+  Data Vault models.
   Conanical model.
   Domain-driven designs (banking, retail, healthcare, etc.).
   Reusable templates for schema design.
